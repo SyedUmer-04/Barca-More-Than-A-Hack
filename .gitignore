@@ -1,0 +1,23 @@
+# Restricted match assets, generated predictions, experiments and binaries
+/data/
+/evaluation/results/
+/models/
+*.csv
+*.mp4
+*.mov
+*.avi
+*.onnx
+*.pt
+*.pth
+*.npy
+*.npz
+*.zip
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.DS_Store
